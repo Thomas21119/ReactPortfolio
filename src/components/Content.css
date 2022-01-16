@@ -1,0 +1,16 @@
+.Content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 80%;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20%;
+}
+
+.sectionHeading {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
