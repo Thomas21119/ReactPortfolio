@@ -10,6 +10,26 @@ function Portfolio() {
           src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/Flight%20Finder.png?raw=true"
           alt="flightFinder"
         />
+        <img
+          src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/PsuedoShopper.png?raw=true"
+          alt="PsuedoShopper"
+        />
+        <img
+          src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/PsuedoShopper.png?raw=true"
+          alt="PsuedoShopper"
+        />
+        <img
+          src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/PsuedoShopper.png?raw=true"
+          alt="PsuedoShopper"
+        />
+        <img
+          src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/PsuedoShopper.png?raw=true"
+          alt="PsuedoShopper"
+        />
+        <img
+          src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/PsuedoShopper.png?raw=true"
+          alt="PsuedoShopper"
+        />
       </div>
     </div>
   );
