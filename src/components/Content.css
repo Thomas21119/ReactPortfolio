@@ -5,13 +5,18 @@
   height: 80%;
   width: 90%;
   margin: 0 auto;
-  margin-top: 20%;
+  margin-top: 25%;
 }
 
 .sectionHeading {
   font-size: 32px;
   font-weight: bold;
   text-align: center;
+  margin-top: 5%;
+}
+
+.portfolio .sectionHeading {
+  margin-bottom: 5%;
 }
 
 .currentView {
