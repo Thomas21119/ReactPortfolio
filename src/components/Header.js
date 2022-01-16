@@ -1,7 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import './Header.css';
+const aboutMe = document.querySelector('#aboutMe');
+const portfolio = document.querySelector('#portfolio');
+const contact = document.querySelector('#contact');
+const resume = document.querySelector('#resume');
 
 function Header() {
+  useEffect(() => {
+    const aboutMeClick = (e) => {};
+
+    aboutMe.addEventListener('click', aboutMeClick);
+  });
+
   return (
     <header className="is-sticky">
       <h2> Thomas Wittwer </h2>
