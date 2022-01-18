@@ -69,9 +69,9 @@ function Portfolio() {
     }
   ]
   return (
-    <div> 
+    <div className="portfolio"> 
       <h1 id="projectsH1"> My Projects </h1>
-      <div>
+      <div className="toWrap">
         {
           project.map((projectInfo, i) => {
             return (

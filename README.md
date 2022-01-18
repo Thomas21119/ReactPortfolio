@@ -9,7 +9,8 @@ This React Portfolio is one i will work on and likely change in the future, with
 This project is under the MIT license
 
 ## Live Application Link
-
+https://thomas21119.github.io/ReactPortfolio/
 
 
 ## Github Repository
+https://github.com/Thomas21119/ReactPortfolio

@@ -1,14 +1,3 @@
-.projects {
-  display: flex;
-  width: 80%;
-  flex-wrap: wrap;
-  border: 2px dashed black;
-  padding: 5px;
-  border-radius: 20px;
-  margin: 0 auto;
-  margin-bottom: 45px;
-}
-
 #projectsH1 {
   display: flex;
   width: 100%;
@@ -18,6 +7,19 @@
   text-align: center;
   margin-bottom: 5%;
   font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+}
+
+.projects {
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  border: 2px dashed black;
+  padding: 5px;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 45px;
+  background-color: #4A0D67;
 }
 
 .projectTitle {
@@ -27,6 +29,7 @@
   text-decoration: underline;
   text-align: center;
   padding: 5%;
+  color: white;
 }
 
 .projectImage {
@@ -41,6 +44,7 @@
   margin: 2% auto;
   width: 80%;
   text-align: center;
+  color: #DAFFED;
 }
 
 .buttons {
@@ -54,4 +58,42 @@
 .buttons button {
   width: 100%;
   height: 40px;
+}
+
+.portfolio {
+  background-color: #9BF3F0;
+}
+
+@media only screen and (min-width: 768px) {
+  #projectsH1 {
+    font-size: 32px;
+    margin: 2.5% auto;
+  }
+  .projects p {
+    font-size: 22px;
+  }
+  .projectTitle {
+    font-size: 32px;
+  }
+  .buttons a {
+    width: 45%;
+  }
+
+  .buttons button {
+    font-size: 24px;
+    height: 90%;
+  }
+}
+  
+@media only screen and (min-width: 1200px) {
+  .projects {
+    width: 30%;
+    margin: 0;
+    margin-bottom: 80px;
+  }
+  .toWrap {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
 }

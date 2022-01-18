@@ -5,7 +5,7 @@ footer {
     bottom: 0px;
     width: 100%;
     height: 40px;
-    background: white;
+    background-color: #ADFC92;
     border-top: 2px dashed black;
 }
 
@@ -27,7 +27,20 @@ footer ul a li {
 
 footer ul a li button {
     width: 100%;
+    font-weight: bold;
+    transition: all 0.5s ease-in-out;
+    background-color: #DAFFED;
+    font-weight: bold;
 }
+
+
+footer ul a li button:hover {
+    background-color: black;
+    color: #DAFFED;
+
+
+}
+
 
 .sectionHeading {
     font-size: 32px;
@@ -35,4 +48,16 @@ footer ul a li button {
     text-align: center;
     margin-top: 5%;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
   }
+
+  @media only screen and (min-width: 768px) {
+   footer {
+       height: 60px;
+   }
+
+   footer button {
+       height: 40px;
+   }
+  }
+    
