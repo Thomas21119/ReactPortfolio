@@ -3,8 +3,15 @@ import './AboutMe.css';
 
 function AboutMe() {
   return (
-    <div className="aboutMe">
+    <div className="aboutMe" 
+    // style={{ 
+    //   backgroundImage: `url("https://via.placeholder.com/500")` }}
+      >
       <h3 className="sectionHeading"> About Me</h3>
+      <img
+        src="https://lh3.googleusercontent.com/jUoaTIlBn5ibfQcND2n5OMD6Z7xoqNj-ShHlFR6QuLffLXD5pS8V2eNg1rGlrsRrnDkoQ28O8UHzqzBQKAGY4l1CS2NQSq2SkRScK6FOjl82jppyohK-"
+        alt="Tom"
+      />
       <p>
         I'm Tom, located in Victoria Australia and am currently a junior web
         developer, still in very early days but am making progress towards

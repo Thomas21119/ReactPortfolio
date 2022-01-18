@@ -1,7 +1,8 @@
 body,
 html,
 #root,
+.root,
 .app {
 }
 
-/* footer */
+

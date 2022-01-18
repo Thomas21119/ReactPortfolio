@@ -1,0 +1,28 @@
+.aboutMe p {
+  margin: 0 auto;
+  margin-top: 5%;
+  width: 80%;
+  padding: 2.5%;
+  line-height: 1.25rem;
+  font-size: 16px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.aboutMe img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  width: auto;
+  margin: 0 auto;
+}
+
+.sectionHeading {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+}
