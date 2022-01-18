@@ -124,9 +124,9 @@ This homework is graded based on the following criteria:
 
 <!-- - User experience is intuitive and easy to navigate. -->
 
-- User interface style is clean and polished.
+<!-- - User interface style is clean and polished. -->
 
-- Application uses a color scheme other than the default Bootstrap color palette.
+<!-- - Application uses a color scheme other than the default Bootstrap color palette. -->
 
 ### Repository Quality: 13%
 
@@ -134,7 +134,7 @@ This homework is graded based on the following criteria:
 
 - Repository follows best practices for file structure and naming conventions. -->
 
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. <!-- Done except comments -->
+<!-- - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.  -->
 <!-- 
 - Repository contains multiple descriptive commit messages. -->
 
