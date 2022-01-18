@@ -6,7 +6,7 @@ function AboutMe() {
     <div className="aboutMe" >
       <h3 className="sectionHeading"> About Me</h3>
       <img
-        src="https://lh3.googleusercontent.com/jUoaTIlBn5ibfQcND2n5OMD6Z7xoqNj-ShHlFR6QuLffLXD5pS8V2eNg1rGlrsRrnDkoQ28O8UHzqzBQKAGY4l1CS2NQSq2SkRScK6FOjl82jppyohK-"
+        src="https://github.com/Thomas21119/ReactPortfolio/blob/main/public/images/AvatarMaker.png?raw=true"
         alt="Tom"
       />
       <p>
